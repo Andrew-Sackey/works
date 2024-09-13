@@ -249,4 +249,14 @@ nav {
   color: black;
 }
 
-
+.copy-symbol {
+  color: grey;
+  border-top: 1px solid rgba(255, 255, 255, 0.7);
+  padding: 2rem;
+  width: 80%;
+  margin: auto 0;
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  align-items: center;
+}
